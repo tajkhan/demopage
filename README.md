@@ -1,2 +1,2 @@
-# demopage
+# Dummy website
 Trying github pages.
